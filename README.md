@@ -124,6 +124,7 @@ The dataset used in this project is simulated and does not contain any real cust
 👩‍💻 Author
 
 Samaneh Kavianfar
+
 LinkedIn: https://www.linkedin.com/in/samaneh-kavianfar-8a93033b2
 
 GitHub:
