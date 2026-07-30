@@ -16,27 +16,27 @@ This project is a complete end-to-end data analytics pipeline for analyzing sale
 
 sales_project/
 ├── data/
-│ ├── raw/ # Raw CSV files
-│ └── cleaned/ # Cleaned data
-├── dbt/ # dbt project
-│ ├── models/
-│ │ ├── staging/
-│ │ ├── intermediate/
-│ │ └── marts/
-│ ├── seeds/
-│ ├── tests/
-│ ├── macros/
-│ ├── analyses/
-│ ├── dbt_project.yml
-│ └── profiles_sample.yml
+│   ├── raw/                  # Raw CSV files
+│   └── cleaned/              # Cleaned data
+├── dbt/                      # dbt project
+│   ├── models/
+│   │   ├── staging/
+│   │   ├── intermediate/
+│   │   └── marts/
+│   ├── seeds/
+│   ├── tests/
+│   ├── macros/
+│   ├── analyses/
+│   ├── dbt_project.yml
+│   └── profiles_sample.yml
 ├── powerbi/
-│ ├── sales_dashboard.pbix
-│ └── screenshots/
+│   ├── sales_dashboard.pbix
+│   └── screenshots/
 ├── python/
-│ ├── data_cleaning.py
-│ ├── generate_sales_data.py
-│ ├── load_to_postgres.py
-│ └── requirements.txt
+│   ├── data_cleaning.py
+│   ├── generate_sales_data.py
+│   ├── load_to_postgres.py
+│   └── requirements.txt
 ├── sql_queries/
 └── README.md
 
@@ -124,7 +124,7 @@ The dataset used in this project is simulated and does not contain any real cust
 👩‍💻 Author
 
 Samaneh Kavianfar
-LinkedIn: https://www.linkedin.com/in/samaneh-kavianfar-8a93033b2/
-GitHub: https://github.com/Data-Analyst-Journey
+LinkedIn
+GitHub
 
 ```
