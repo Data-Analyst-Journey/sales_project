@@ -1,0 +1,139 @@
+﻿product_id,product_name,category,gender,base_price
+P001,Correction_fluid,stationery,unisex,70000
+P002,Mechanical_pencil,stationery,unisex,50000
+P003,Air_freshener,Home & Living,unisex,298000
+P004,headscarf100,Hijab,women,280000
+P005,headscarf90,Hijab,women,250000
+P006,Trousers_melanj,Clothing,kids,198000
+P007,Trousers_span,Clothing,kids,198000
+P008,Trousers_cotton,Clothing,kids,230000
+P009,Trousers_3line,Clothing,kids,398000
+P010,Trousers_galexy,Clothing,kids,550000
+P011,Trousers_galexy_big,Clothing,kids,650000
+P012,Trousers_cottonbig,Clothing,kids,250000
+P013,Trousersjeans,Clothing,kids,798000
+P014,Trousersshorts,Clothing,kids,298000
+P015,baler,Clothing,kids,798000
+P016,Tshirt_LuckBaby,Clothing,kids,350000
+P017,Tshirt_Mickey,Clothing,kids,350000
+P018,Tshirt_cuban_Coller,Clothing,kids,398000
+P019, button_down_shirt,Clothing,kids,398000
+P020,Tshirt_qb,Clothing,kids,398000
+P021,Tshirt_paper_jeans,Clothing,kids,398000
+P022,Tshirt_balenciaga,Clothing,kids,498000
+P023,Tshirt_balenciagabig,Clothing,kids,550000
+P024,Blouse_and_shorts,Clothing,kids,350000
+P025,Tshirts_shorts_bears,Clothing,kids,450000
+P026,Tshirts_shorts_spiderman,Clothing,kids,498000
+P027,Top_shorts,Clothing,kids,698000
+P028,button_shirt_and_shorts,Clothing,kids,530000
+P029,Tshirt_and_shorts_Teddy,Clothing,kids,598000
+P030,Tshirt_and_shorts_boxi,Clothing,kids,798000
+P031,Tshirt_shorts,Clothing,kids,898000
+P032,Undershirt,Clothing,kids,150000
+P033,Romper,Clothing,kids,350000
+P034,Tshirt_flower,Clothing,kids,450000
+P035,Sarafan ,Clothing,kids,598000
+P036,Top_shorts_heartdesign,Clothing,women,498000
+P037,Top_shorts_classical,Clothing,women,498000
+P038,Top_shorts_Dior,Clothing,women,498000
+P039,Crop_shirt_Leopardprint,Clothing,women,450000
+P040,Crop_shirt_Gucchi,Clothing,women,450000
+P041,Top_kebriti,Clothing,women,298000
+P042,Granite_cookware_set,Home & Living,unisex,4500000
+P043,Bugatti_Blouse,Clothing,women,450000
+P044,manto_button,Clothing,women,598000
+P045,manto_pocketed,Clothing,women,650000
+P046,Beach_dress,Clothing,women,698000
+P047,Manteau_and_trousers_official,Clothing,women,898000
+P048,Manteau,Clothing,women,550000
+P049,Aba_lux,Hijab,women,2100000
+P050,Aba_elize,Hijab,women,2300000
+P051,Orall,Clothing,women,950000
+P052,Tshirt_model1,Clothing,Men,598000
+P053,Tshirt_Mutti,Clothing,Men,598000
+P054,Tshirt_Reebok,Clothing,Men,598000
+P055,Polo_shirt,Clothing,Men,698000
+P056,Polo_shirt_jodon,Clothing,Men,698000
+P057,button_shirt,Clothing,Men,598000
+P058,Leopard_print_earrings,Accessories,women,398000
+P059,earrings_jouping,Accessories,women,350000
+P060,Pearl_earrings,Accessories,women,250000
+P061,Gemstone ring,Accessories,women,398000
+P062,ring_lux,Accessories,women,350000
+P063,bracelet-model1,Accessories,women,350000
+P064,bracelet-model2,Accessories,women,350000
+P065,Double_strand_pearl_necklace,Accessories,women,298000
+P066,pearl_set,Accessories,women,398000
+P067,Chador_kerep_model1,Hijab,women,2790000
+P068,Chador_kerep_model2,Hijab,women,2990000
+P069,Chador_kerep_model3,Hijab,women,3090000
+P070,Chador_Kerep_neda,Hijab,women,3390000
+P071,Arabian_Chador,Hijab,women,1990000
+P072,Arabian_chador_Guipure_lace_sleeve,Hijab,women,2290000
+P073,Chador_with_Shal,Hijab,women,2090000
+P074,Chador_with_Hat,Hijab,women,2090000
+P075,Lebanese_style_chador,Hijab,women,2090000
+P076,Lebanese-style chador_kerep,Hijab,women,2390000
+P077,Jadde_style_chador,Hijab,women,2690000
+P078,Jadde_style_chador_lux,Hijab,women,3190000
+P079,Suspenders,Clothing,kids,150000
+P080,Leather_belt,Clothing,Men,450000
+P081,Belt_and_wallet_set_model1,Accessories,Men,480000
+P082,Belt_and_wallet_set_model2,Accessories,Men,380000
+P083,handbag_model1,Clothing,women,250000
+P084,handbag_model2,Clothing,women,398000
+P085,handbag_model3,Clothing,women,450000
+P086,handbag_model4,Clothing,women,450000
+P087,body_bag,Clothing,unisex,450000
+P088,Leather_bag,Clothing,unisex,550000
+P089,handbag_model5,Clothing,women,650000
+P090,handbag_model6,Clothing,women,650000
+P091,handbag_model7,Clothing,women,698000
+P092,handbag_model8,Clothing,women,850000
+P093,handbag_model9,Clothing,women,950000
+P094,handbag_model10,Clothing,women,998000
+P095,Kitchen_knife_Dafni,Home & Living,unisex,120000
+P096,Kitchen_knife,Home & Living,unisex,60000
+P097,Children's_spoon_and_fork,Home & Living,kids,398000
+P098,spoon_and_fork,Home & Living,unisex,250000
+P099,Small_hand_broom_single,Home & Living,unisex,100000
+P100,Small_hand_broom_double,Home & Living,unisex,150000
+P101,Spice_container_set_Yas,Home & Living,unisex,280000
+P102,Diamond_bowl_set_Asa,Home & Living,unisex,450000
+P103,Plastic_container_set_with_lid_10pices,Home & Living,unisex,450000
+P104,Lidded_freezer_container_3pices,Home & Living,unisex,450000
+P105,Lidded_freezer_container_4pices,Home & Living,unisex,550000
+P106,Lidded_bowl_set_minel_guzel,Home & Living,unisex,550000
+P107,Mug,Home & Living,unisex,180000
+P108,Coffee_cup_set,Home & Living,unisex,750000
+P109,Tea_flask,Home & Living,unisex,750000
+P110,Porcelain_teapot,Home & Living,unisex,398000
+P111,Pyrex_teapot,Home & Living,unisex,750000
+P112,Frying_pan,Home & Living,unisex,100000
+P113,Sugar_bowl,Home & Living,unisex,150000
+P114,glass_set,Home & Living,unisex,280000
+P115,glass_set_Onix,Home & Living,unisex,330000
+P116,Mug_Alicia,Home & Living,unisex,398000
+P117,Pitcher_and_glass_set,Home & Living,unisex,1100000
+P118,Men's_shorts_jeans,Clothing,Men,450000
+P119,Men's_shorts_sport,Clothing,Men,398000
+P120,Men's_hemp_shorts,Clothing,Men,598000
+P121,Sport_Trousers,Clothing,Men,450000
+P122,Sport_Trousers_sayji,Clothing,Men,898000
+P123,Sport_Trousers_nike,Clothing,Men,750000
+P124,Trousers_cotten,Clothing,Men,1500000
+P125,Slipper_Pastelli,Clothing,Kids,200000
+P126,Slipper_plastic,Clothing,kids,250000
+P127,Slipper_Pastelli,Clothing,Men,250000
+P128,Slipper_addi,Clothing,Men,380000
+P129,Slippers,Clothing,women,150000
+P130,slippers_bita,Clothing,women,350000
+P131,Orthopedic_shoes,Clothing,women,750000
+P132,Vans_shoes_teddy,Clothing,kids,698000
+P133,strappy_sandals,Clothing,Men,850000
+P134,Crystal_bracelet,Accessories,women,80000
+P135,Hair_clip_model1,Accessories,women,50000
+P136,Hair_clip_model2,Accessories,women,80000
+P137,Hair_clip_model3,Accessories,women,80000
+P138,Wooden_hairbrush,Accessories,unisex,198000
