@@ -72,10 +72,10 @@ sales_project/
 ## 🚀 How to Run
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/Data-Analyst-Journey/sales_project.git
 cd sales_project
-```
+
 
 2. Set up PostgreSQL
 
@@ -84,27 +84,26 @@ cd sales_project
 
 3. Install Python dependencies
 
-```bash
+
 pip install -r python/requirements.txt
-```
+
 
 4. Generate and load data
 
-```bash
+
 python python/generate_sales_data.py
 python python/data_cleaning.py
 python python/load_to_postgres.py
-```
+
 
 5. Run dbt models
 
-```bash
 cd dbt
 dbt run
 dbt test
 dbt docs generate
 dbt docs serve
-```
+
 
 6. Open Power BI
 
