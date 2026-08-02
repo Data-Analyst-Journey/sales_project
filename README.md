@@ -12,7 +12,6 @@ This project is a complete end-to-end data analytics pipeline for analyzing sale
 
 ## 📂 Project Structure
 
-```
 
 sales_project/
 ├── data/
@@ -40,7 +39,7 @@ sales_project/
 ├── sql_queries/
 └── README.md
 
-```
+
 
 ---
 
