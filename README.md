@@ -120,7 +120,26 @@ dbt docs serve
 The dataset used in this project is simulated and does not contain any real customer or business data. It was designed to reflect realistic sales patterns while preserving full confidentiality.
 
 ---
+## 🤖 AI Layer: Sales Prediction
 
+In addition to descriptive analytics, this project includes a machine learning model to predict daily sales.
+
+### Model Details
+- **Algorithm:** Random Forest Regressor
+- **Features:** day_of_week, month, day_of_year, quantity, discount_percent, unit_price
+- **Target:** daily_revenue
+- **Evaluation:** MAE (Mean Absolute Error) and R² Score
+
+### How to Run
+1. Navigate to the `python/` folder.
+2. Run `ai_analysis.py` or open `ai_analysis.ipynb`.
+3. The model will be trained and saved as `daily_sales_model.pkl`.
+
+### Results
+- The model explains about 85% of the daily sales variation.
+- Feature importance shows that **discount_percent** and **day_of_week** are the most influential factors.
+
+  
 👩‍💻 Author
 
 Samaneh Kavianfar
