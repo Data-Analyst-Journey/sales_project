@@ -166,7 +166,7 @@ In addition to descriptive analytics, this project includes a machine learning m
 **Samaneh Kavianfar**  
 Data Analyst | Python | SQL | Power BI | dbt  
 [LinkedIn](https://www.linkedin.com/in/samaneh-kavianfar-8a93033b2/) | [GitHub](https://github.com/Data-Analyst-Journey)
-```
+
 
 ---· Refresh the data.
 
