@@ -139,7 +139,7 @@ cd sales_project
 
 bash
 pip install -r python/requirements.txt
-```
+
 
 4. Generate and Load Data
 
